@@ -1,2 +1,2 @@
 # flutterWidgetApp
- Exercise with flutter widget
+ Exercise with flutter widget in Dicoding Course
